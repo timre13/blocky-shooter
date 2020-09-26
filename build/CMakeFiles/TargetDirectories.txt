@@ -1,0 +1,2 @@
+/home/mike/projects/blocky_shooter/build/CMakeFiles/rebuild_cache.dir
+/home/mike/projects/blocky_shooter/build/CMakeFiles/edit_cache.dir
